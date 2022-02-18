@@ -1,0 +1,54 @@
+.design {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.container {
+    margin: 2px 9.5% 2px;
+   
+}
+
+.box{
+    display: block;
+    padding-bottom: 3px;
+    padding-top: 3px;
+
+}
+
+.bg-blue0 {
+    background-color: rgb(126, 229, 218);
+}
+
+.bg-blue1 {
+    background-color: rgb(112, 204, 194);
+}
+
+.bg-blue2 {
+    background-color: rgb(98, 179, 170);
+}
+
+.bg-grey {
+    background-color: rgb(238, 238, 238);;
+}
+
+.section {
+    float: left;
+    width: 33%;
+    margin-right: 0.33%;
+    height: 100px;
+    display: block;
+    
+}
+
+.clear {
+    clear: both;
+}
+
+
+
+
+
+
+
